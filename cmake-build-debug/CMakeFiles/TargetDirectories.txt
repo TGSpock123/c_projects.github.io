@@ -1,0 +1,3 @@
+C:/Users/tgspo/Documents/GitHub/c_projects.github.io/cmake-build-debug/CMakeFiles/c_projects_github_io.dir
+C:/Users/tgspo/Documents/GitHub/c_projects.github.io/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tgspo/Documents/GitHub/c_projects.github.io/cmake-build-debug/CMakeFiles/rebuild_cache.dir
